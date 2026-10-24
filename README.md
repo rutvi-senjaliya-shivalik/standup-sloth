@@ -19,7 +19,7 @@ $ python3 standup_sloth.py --scan ~/Projects --copy
 **Blockers**
 - None
 
-— Written by gemma3:4b locally in 6.1s · cost: ₹0 · bytes sent to the cloud: 0
+— Written by gemma3:4b locally in in a few seconds · cost: ₹0 · bytes sent to the cloud: 0
 📋 Copied to clipboard.
 ```
 
